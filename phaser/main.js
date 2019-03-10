@@ -6,30 +6,3 @@ game.state.add('HomeState', HomeState);
 game.state.add('PreloadState', PreloadState);
 game.state.add('BootState', BootState);
 game.state.start('BootState');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
